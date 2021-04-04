@@ -1,2 +1,5 @@
-In our Software Development II lab, we had to make this browser just like Microsoft Edge using JavaFX. 
-Special thanks to Ms Raqeebir Rab and Mr Saaduddin Mahmud for guiding us through this project. 
+In our Software Development lab II, we had to make a project and then we made this browser just like Microsoft Edge using JavaFX. 
+
+**If you want to download our browser then download the 'jar' file only.
+
+YouTube link of our project: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s&ab_channel=AhmadulKarimChowdhury
