@@ -1,6 +1,6 @@
 Net Explorer is a web browser like Microsoft Edge written in Java.
 
-Gui toolkit: JavaFX
+GUI toolkit: JavaFX
 
 Features:
 - Home Button
