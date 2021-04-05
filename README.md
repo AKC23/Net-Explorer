@@ -18,7 +18,7 @@ Software Used: 
 
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/57568723/113544655-87603280-960a-11eb-8479-6f66dace779c.png)
-
+                                      Figure: Home page of 'Net Explorer'
 
 
 YouTube link of our project: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s&ab_channel=AhmadulKarimChowdhury
