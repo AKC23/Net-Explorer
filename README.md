@@ -26,4 +26,4 @@ YouTube link of our project: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s&ab
 
 **If you want to download our browser then download the 'jar' file only.
 
-**Active database named 'browser' to connect with database, history and bookmark page will work then.
+**Active database named 'browser' to connect with database and then history and bookmark page will work .
