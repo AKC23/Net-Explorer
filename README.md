@@ -22,8 +22,8 @@ Home page of 'Net Explorer' is given below.
                                      
 
 
-YouTube link of our project: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s&ab_channel=AhmadulKarimChowdhury
+YouTube link: https://www.youtube.com/watch?v=XhUf8l_xL0M&t=9s&ab_channel=AhmadulKarimChowdhury
 
-**If you want to download our browser then download the 'jar' file only.
+**If you want to download the browser then download the 'jar' file only.
 
 **Active database named 'browser' to connect with database and then history and bookmark page will work .
