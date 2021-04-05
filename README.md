@@ -16,7 +16,7 @@ Software Used: 
 - XAMPP 8.0.3
 
 
-Figure: Home page of 'Net Explorer'
+Home page of 'Net Explorer' is given below.
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/57568723/113544655-87603280-960a-11eb-8479-6f66dace779c.png)
                                      
