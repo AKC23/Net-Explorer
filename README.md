@@ -1,8 +1,6 @@
-Project Descriptions:
+Net Explorer is a web browser like Microsoft Edge written in Java.
 
-Project Name: Net Explorer
-Project Type: Web browser
-GUI toolkit: JavaFX
+Gui toolkit: JavaFX
 
 Features:
 - Home Button
